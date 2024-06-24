@@ -4,4 +4,4 @@
 Para ejecutar el sistema, debes poner: 
 
 
-´´ ,p install ''
+´´ npe install ''
